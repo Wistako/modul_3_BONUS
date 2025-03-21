@@ -1,4 +1,4 @@
-### Znajdź średnią zmodyfikowanej listy
+#### Znajdź średnią zmodyfikowanej listy
 Twoim zadaniem jest zmodyfikowanie listy przypisanej do zmiennej numbers w taki sposób, aby każdy jej element zaokrąglić do pełnej dziesiątki. Postaraj się nie tworzyć nowej listy będącej zmodyfikowaną listą numbers, lecz zmodyfikować listę numbers.
 
 Po zaokrągleniu każdego elementu listy numbers, pozbądź się jej największego oraz najmniejszego elementu, a następnie do zmiennej mean_number przypisz średnią z ostatecznie zmodyfikowanej listy.
